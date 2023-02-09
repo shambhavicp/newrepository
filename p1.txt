@@ -1,0 +1,11 @@
+class p1{
+
+public static void main(STring[] args){
+
+
+int a=10;
+int b=10;
+
+
+}
+}
