@@ -6,6 +6,6 @@ public static void main(STring[] args){
 int a=10;
 int b=10;
 
-
+System.out.println(b);
 }
 }
